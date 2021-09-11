@@ -1,1 +1,1 @@
-# nep
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", GARAGE TV https://cougar.jawcloud.co/hls/baxpiu6gmjts7n2gmizooqf3izvyv7expel26cilngrkwzvjy2qo6caq73xq/index-v1-a1.m3u8
